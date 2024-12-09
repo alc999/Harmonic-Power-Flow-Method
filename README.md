@@ -29,4 +29,4 @@ J. K. M. Becker, A. M. Kettner, L. Reyes-Chamorro, Z. Zou, M. Liserre, and M. Pa
 J. K. M. Becker, A. M. Kettner, Y. Zuo, et al., “Modelling of ac/dc interactions of converter-interfaced resources for harmonic power-flow studies in microgrids,” IEEE Trans. Smart Grid, 2022.
 
 <a id="4">[4]</a>
-J. K. M. Becker, A. M. Kettner, Y. Zuo, and M. Paolone, “Harmonic power-flow study of hybrid ac/dc grids with converter-interfaced distributed energy resources,” arXiv, 2023. doi: 10.48550/ARXIV.2302.02864. [Online]. Available: https://arxiv.org/abs/2302.02864.
+J. K. M. Becker, Y. Zuo, M. Paolone and A. M. Kettner, "Harmonic Power-Flow Study of Hybrid AC/DC Grids with Converter-Interfaced Distributed Energy Resources," Proc. of the 2023 IEEE Belgrade PowerTech, Belgrade, Serbia, 2023, pp. 1-6.
